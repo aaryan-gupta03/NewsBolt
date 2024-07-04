@@ -39,4 +39,4 @@ To use the app, navigate to the appropriate route for the news category you are 
 - [React](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/)
 - [react-top-loading-bar](https://www.npmjs.com/package/react-top-loading-bar)
--[react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component)
+- [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component)
