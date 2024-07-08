@@ -2,6 +2,9 @@
 
 NewsBolt App is a React application that provides the latest news fetched from an external API. It features a user-friendly interface with categories like business, entertainment, general, health, science, sports, and technology. The app also includes a loading bar to indicate the progress of fetching news.
 
+## Some Images:
+<img width="450px;" src="https://raw.githubusercontent.com/aaryan-gupta03/NewsBolt/main/Demo.png"/>
+
 ## Table of Contents
 
 - [Features](#features)
