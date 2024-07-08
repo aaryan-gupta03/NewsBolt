@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState } from 'react';
 import NavBar from './components/NavBar';
 import News from './components/News';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import LoadingBar from 'react-top-loading-bar';
 
 const App = () => {
